@@ -1,6 +1,6 @@
 
 {
-    "name": "ourcodeworld/hello-composer",
+    "name": "jitu8121990/hello-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
