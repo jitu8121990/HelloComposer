@@ -1,0 +1,23 @@
+
+{
+    "name": "ourcodeworld/hello-composer",
+    "description": "My first packagist package",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jitu8121990",
+            "email": "jiturajpurohit1111@gmail.com",
+            "homepage": "http://jitu-if-you-have.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "jitu\\HelloComposer\\": "src/"
+        }
+    }
+}
